@@ -1,0 +1,16 @@
+
+@keyframes fade{
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+
+h1.fade-in{
+  animation-name: fade;
+  animation-duration: 2s !important;
+}
+
+p.fade-in{
+  animation-name: fade;
+  animation-duration: 5s !important;
+}
