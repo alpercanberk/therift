@@ -20,3 +20,5 @@ def get_letter():
     # for item in items_list:
     #     print(item)
     return items_list
+
+# if(time == datetime.time(hour=0, minute=0, second=0, microsecond=0)):
